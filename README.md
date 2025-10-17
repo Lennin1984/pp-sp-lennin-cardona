@@ -1,4 +1,4 @@
-# Proyectos de Programación - evaluación parcial 2
+# Datos del Estudiante
 ## Lennin Ausberto Cardona Navarro
-## Carnet 200417587
-## Fecha: 16 de octubre de 2025
+## carnet 200417587
+## 17 de octubre de 2025
